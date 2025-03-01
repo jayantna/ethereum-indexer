@@ -124,11 +124,11 @@ ethereum-indexer/
 
 ## Test Snippet
 
-![Health Check](./public/health-check.png)
+![Health Check](./public/health-test.png)
 
-![Block](./public/block.png)
+![Block](./public/block-test.png)
 
-![Transaction](./public/transaction.png)
+![Transaction](./public/transaction-test.png)
 
 ## License
 
